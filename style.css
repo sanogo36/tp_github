@@ -1,0 +1,9 @@
+body{
+    background-color: pink;
+    width: 100%;
+}
+h1{
+  text-align: center;
+  color: rgb(182, 14, 14);
+  margin: 20%;
+}
